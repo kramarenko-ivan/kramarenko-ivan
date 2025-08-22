@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**kramarenko-ivan/kramarenko-ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Grindly](https://github.com/kramarenko-ivan/grindly/actions/workflows/python-app.yml/badge.svg)](https://github.com/kramarenko-ivan/grindly/actions/workflows/python-app.yml)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Grindly** — a full-cycle habit-tracking app built with FastAPI, Vue.js, CI/CD pipelines, and reproducible infrastructure.  
+- 🌱 I’m currently learning **DevOps methodology**, including containerization, infrastructure as code, and automated testing.  
+- 👯 I’m looking to collaborate on backend-heavy projects, infrastructure automation, and developer tooling.  
+- 🤔 I’m looking for help with presenting self-driven engineering projects as commercial-grade experience to recruiters.  
+- 💬 Ask me about Python, FastAPI, CI/CD, Makefile in Windows, or how to build battle-ready development environments.  
+- 📫 How to reach me:  
+  - Telegram: [@kramarenko-ivan](https://t.me/kramarenko-ivan)  
+  - LinkedIn: [linkedin.com/in/kramarenko-ivan](https://linkedin.com/in/kramarenko-ivan)  
+  - Phone: +380973536549  
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: I treat every bug as a mini-boss battle — and every Makefile as a spellbook.  
