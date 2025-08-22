@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there! Ivan joined the server 👋
 
 [![Grindly](https://github.com/kramarenko-ivan/grindly/actions/workflows/python-app.yml/badge.svg)](https://github.com/kramarenko-ivan/grindly/actions/workflows/python-app.yml)
 
@@ -13,3 +13,4 @@
   - Phone: +380973536549  
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: I treat every bug as a mini-boss battle — and every Makefile as a spellbook.  
+- 📖 Read more in the CV: [here](https://www.linkedin.com/feed/update/urn:li:activity:7358072926165712898/)
