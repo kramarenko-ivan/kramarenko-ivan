@@ -11,6 +11,5 @@
   - Telegram: [@kramarenko-ivan](https://t.me/kramarenko-ivan)  
   - LinkedIn: [linkedin.com/in/kramarenko-ivan](https://linkedin.com/in/kramarenko-ivan)  
   - Phone: +380973536549  
-- 😄 Pronouns: he/him  
 - ⚡ Fun fact: I treat every bug as a mini-boss battle — and every Makefile as a spellbook.  
 - 📖 Read more in the CV: [here](https://www.linkedin.com/feed/update/urn:li:activity:7358072926165712898/)
