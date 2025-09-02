@@ -1,6 +1,7 @@
 ## Hey there! Ivan joined the server 👋
 
-[![Grindly backend](https://github.com/kramarenko-ivan/grindly/actions/workflows/cd-backend.yml/badge.svg)]
+![Grindly CI](https://github.com/kramarenko-ivan/grindly/actions/workflows/ci-backend.yml/badge.svg)
+![Grindly CD](https://github.com/kramarenko-ivan/grindly/actions/workflows/cd-backend.yml/badge.svg)
 
 - 🔭 I’m currently working on **Grindly** — a full-cycle habit-tracking app built with FastAPI, Vue.js, CI/CD pipelines, and reproducible infrastructure.  
 - 🌱 I’m currently learning **DevOps methodology**, including containerization, infrastructure as code, and automated testing.  
